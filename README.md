@@ -16,7 +16,7 @@ https://www.packer.io/docs/install/index.html
 Instalar o terraform
 https://learn.hashicorp.com/terraform/getting-started/install
 
-Instalar o /.jq
+Instalar o jq
 https://stedolan.github.io/jq/
 
 # Execução
