@@ -20,5 +20,5 @@ Instalar o /.jq
 https://stedolan.github.io/jq/
 
 # Execução
-1 - Editar o arquivo deploy.sh atualizando as variáveis AWS_ACCESS_KEY e AWS_SECRET_ACCESS_KEY com as credenciais de um usuário na aws que contenha permissões para criação dos recursos requeridos no teste (preferencialmente administrador)
-2 - Executar o arquivo deploy.sh
+<p>1 - Editar o arquivo deploy.sh atualizando as variáveis AWS_ACCESS_KEY e AWS_SECRET_ACCESS_KEY com as credenciais de um usuário na aws que contenha permissões para criação dos recursos requeridos no teste (preferencialmente administrador)</p>
+<p>2 - Executar o arquivo deploy.sh</p>
