@@ -19,6 +19,8 @@ Packer = Este tipo de abordagem foi utilizada para criar imagens imutáveis de i
 Application Load Balancer = A própria aws recomenda que todos os Classic Load Balancers sejam migrados para as duas novas estruturas de ELB: Application e Network. Por se tratar de um tomcat, escolhi o Application Load Balancer.
 
 # Pré Requisitos
+Ambiente Linux ou Mac OS
+
 Instalar o packer
 https://www.packer.io/docs/install/index.html
 
